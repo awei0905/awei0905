@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @awei0905
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning RoR
 - 📫 awei0905@gmail.com
 
 <!---
